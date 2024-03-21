@@ -21,5 +21,4 @@ public class EvenOdd {
 			System.out.print("0이거나 짝수입니다.");
 				
 	}
-
 }
