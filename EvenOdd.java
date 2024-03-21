@@ -15,10 +15,10 @@ public class EvenOdd {
 		s=n%2;
 		
 		
-		if(s==0)
-			System.out.print("짝수입니다");
+		if(s==1)
+			System.out.print("홀수입니다");
 		else
-			System.out.print("0이거나 홀수입니다.");
+			System.out.print("0이거나 짝수입니다.");
 				
 	}
 
