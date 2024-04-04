@@ -16,8 +16,5 @@ public class MultipleOfThree {
 		
 		if(i%3==0)
 			System.out.print("입력하신 수는 3의 배수입니다.");
-		
-
 	}
-
 }
