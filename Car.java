@@ -2,9 +2,9 @@
 public class Car {
 
 
-	String color; //색상
-	int speed; //속도
-	int gear; //기어
+	private String color; //색상
+	private int speed; //속도
+	private int gear; //기어
 	
 	@Override //소스 메뉴에서 투스트링 메소드 자동생성 가능
 	public String toString() {
